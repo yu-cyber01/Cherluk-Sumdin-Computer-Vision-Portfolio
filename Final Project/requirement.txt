@@ -1,1 +1,7 @@
-
+Python dependencies
+- ultralytics
+- torch
+- opencv-python
+- Pillow
+- pandas
+- matplotlib
